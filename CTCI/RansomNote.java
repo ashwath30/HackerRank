@@ -22,3 +22,4 @@ public static boolean Solution(String magazine, String note)
         return true; // if all words are removed, then all note-words are present in mag words.
     }
         
+//https://leetcode.com/problems/ransom-note/
